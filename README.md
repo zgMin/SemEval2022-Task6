@@ -7,3 +7,5 @@
 ## 论文
 [PDF](https://aclanthology.org/2022.semeval-1.134.pdf)
 [备用](https://github.com/zgMin/SemEval2022-Task6/blob/main/SemEval2022Task6.pdf)
+## 排名
+12/43 (21/32), 11/22, and 3/16 (8/13)
